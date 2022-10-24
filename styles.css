@@ -48,6 +48,10 @@ margin: 0 auto 0 auto;
   position: relative;
   margin-left:  500px
 }
+skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+}
 
 
 .top-container {
