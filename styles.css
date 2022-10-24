@@ -1,8 +1,13 @@
 body{
   margin: 0;
   text-align: center;
-  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+  font-size: 14px;
 
+}
+p{
+  color: black;
 }
 
 h1{
@@ -11,9 +16,14 @@ h1{
   margin: 0 auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
-.h2{
+h2{
+  color: #54BAB9;
   left: auto;
   font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  color: #54BAB9;
 }
 .Mountain{
 position: relative;
@@ -41,13 +51,15 @@ margin: 0 auto 0 auto;
 
 .top-container {
   background-color: #E4F9F5;
+
   padding-top: 160px;
   position: relative;
 }
 
 
 .middle-container {
-    background-color: #E4F9F5;
+    background-color: white;
+
     padding-top: 50px;
     position: relative;
 
@@ -56,3 +68,4 @@ margin: 0 auto 0 auto;
     background-color: #E4F9F5;
 
 }
+
