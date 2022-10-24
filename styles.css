@@ -1,0 +1,58 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1{
+  font-size: 60px;
+  margin-top: 0;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+.h2{
+  left: auto;
+  font-family: 'Montserrat', sans-serif;
+}
+.Mountain{
+position: relative;
+margin: 0 auto 0 auto;
+}
+
+.Top-cloud {
+  position: absolute;
+  left: 1000px;
+  top: 20px;
+}
+.Botttom-cloud {
+  position: absolute;
+}
+.web{
+  position: absolute;
+  margin: 0 auto 0 auto;
+
+}
+.pythonweb{
+  position: relative;
+  margin-left:  500px
+}
+
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 160px;
+  position: relative;
+}
+
+
+.middle-container {
+    background-color: #E4F9F5;
+    padding-top: 50px;
+    position: relative;
+
+}
+.bottom-container{
+    background-color: #E4F9F5;
+
+}
